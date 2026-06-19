@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bclangiclaydead1.github.io/chinese-web-jiuyou-com-2/sitemap.xml
